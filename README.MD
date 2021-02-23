@@ -1,6 +1,6 @@
 <h1 align="center"> | MOVE IT | </h1>
 
-## Tecnologias utilizadas: 
+## ✔️ Tecnologias utilizadas: 
 <br>
 
 ✔️ [Next.JS](https://nextjs.org) <br>
